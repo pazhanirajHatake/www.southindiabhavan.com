@@ -1,7 +1,12 @@
 const Footer = () => {
   return (
     <footer>
-      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde fuga culpa molestias, corrupti facilis consectetur voluptas animi vero assumenda eveniet provident excepturi iste error repudiandae quaerat in eius quas. Facere ut, rem voluptate ratione expedita, odit, suscipit eligendi modi voluptatibus architecto id at fuga? Quasi cupiditate iure deleniti temporibus qui.</p>
+      <p>Welcome to South India Bhavan, where tradition meets taste. We serve a curated menu of authentic
+        South Indian delicacies—from the comforting aroma of filter coffee to the spice-laden richness
+        of Chettinad biryani. Our chefs bring generations of culinary expertise, using fresh ingredients,
+        traditional recipes, and a dash of home-style love. Whether you’re craving crispy dosas, steaming
+        hot idlis, or a full Andhra meal, we promise a wholesome experience that transports you to the
+        heart of southern India. Come dine with us and savour the soul of South India.</p>
       <h4>07, South India Bhavan,</h4>
       <h5> New York, NY 10016, United States</h5>
       <hr />

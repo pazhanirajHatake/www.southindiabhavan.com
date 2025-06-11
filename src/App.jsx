@@ -5,7 +5,7 @@ import Footer from './components/Footer'
 
 function App() {
   return (
-    <div className="card-body">
+    <div className="page-wrapper m-3">
       <Header />
       <Menu />
       <Footer />

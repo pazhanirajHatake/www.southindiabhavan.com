@@ -1,11 +1,21 @@
 const Header = () => {
   return (
-    <header>
-      <h1>SOUTH INDIA<span>BHAVAN</span></h1>
-      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus vitae voluptate error reiciendis earum unde obcaecati, corrupti voluptatem perspiciatis atque dolorem laboriosam eius? Esse accusamus, distinctio doloribus quaerat est nulla? Optio, voluptas, beatae sunt enim pariatur quasi, nulla culpa sapiente velit tempora iste similique! Nulla hic perferendis autem est repellendus voluptatum eos error voluptatem fugit voluptatibus. Ab iusto corporis recusandae sunt eius, doloremque amet fuga itaque tenetur, delectus quis sint reiciendis modi. Illum odit blanditiis ut sequi, esse dolorem a sapiente dolores impedit? Totam quidem veritatis, laboriosam quae, deleniti alias et, praesentium cupiditate doloribus voluptas dolorum exercitationem expedita? Eum, excepturi?</p>
+    <>
+      <header>
+        <h1>SOUTH INDIA<span>BHAVAN</span></h1>
+      </header>
+
+      <p>
+        Welcome to South India Bhavan, where tradition meets taste. We serve a curated menu of authentic
+        South Indian delicacies—from the comforting aroma of filter coffee to the spice-laden richness
+        of Chettinad biryani. Our chefs bring generations of culinary expertise, using fresh ingredients,
+        traditional recipes, and a dash of home-style love. Whether you’re craving crispy dosas, steaming
+        hot idlis, or a full Andhra meal, we promise a wholesome experience that transports you to the
+        heart of southern India. Come dine with us and savour the soul of South India.
+      </p>
       <hr />
-    </header>
-  )
-}
+    </>
+  );
+};
 
 export default Header
